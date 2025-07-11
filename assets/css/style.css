@@ -139,11 +139,7 @@ footer {
      }
 }
 
-footer > ul {
+footer {
     position: absolute;
     background-color: #ffffff;
-    width: 100%;
-    padding: 0 1rem;
-    display: contents;
-    top: 100%;
 }
