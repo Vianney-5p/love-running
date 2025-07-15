@@ -185,7 +185,7 @@ main {
 
 #times h3 {
     /* Override the heading colour set in general styles*/
-    color:#fafafa
+    color:#fafafa;
 }
 
 /* Gallery page */
@@ -280,7 +280,7 @@ main {
     }
 }
 
-/* Media query: tablets and lager (768px and up) */
+/* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
     /* Header */
     nav {
